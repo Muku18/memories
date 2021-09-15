@@ -22,8 +22,8 @@ const Groups = () => {
                     <div className="Groups">
                         <ul className="list-inline">
                             <li className="my-4"><img src={sarthak} alt="profilepic" /> &nbsp;&nbsp; <strong> Sarthak Karma </strong></li>
-                            <li className="my-4"><img src={sarah} alt="profilepic" /> &nbsp;&nbsp; <strong> Sarthak Karma </strong></li>
-                            <li className="my-4"><img src={ronal} alt="profilepic" /> &nbsp;&nbsp; <strong> Sarthak Karma </strong></li>
+                            <li className="my-4"><img src={sarah} alt="profilepic" /> &nbsp;&nbsp; <strong> Sarah West </strong></li>
+                            <li className="my-4"><img src={ronal} alt="profilepic" /> &nbsp;&nbsp; <strong>  Ronal Jones</strong></li>
                             <li className="my-4"><img src={joseph} alt="profilepic" /> &nbsp;&nbsp; <strong>Siddharth Goyal</strong></li>
 
                         </ul>
