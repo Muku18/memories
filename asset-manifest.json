@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bfd88e1f.chunk.css",
+    "main.js": "/static/js/main.bb0f79de.chunk.js",
+    "main.js.map": "/static/js/main.bb0f79de.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f038557c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f038557c.js.map",
+    "static/js/2.67f09a2e.chunk.js": "/static/js/2.67f09a2e.chunk.js",
+    "static/js/2.67f09a2e.chunk.js.map": "/static/js/2.67f09a2e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bfd88e1f.chunk.css.map": "/static/css/main.bfd88e1f.chunk.css.map",
+    "static/js/2.67f09a2e.chunk.js.LICENSE.txt": "/static/js/2.67f09a2e.chunk.js.LICENSE.txt",
+    "static/media/Group3.7b9f21a7.png": "/static/media/Group3.7b9f21a7.png",
+    "static/media/Rectangle2.5e5e6449.png": "/static/media/Rectangle2.5e5e6449.png",
+    "static/media/Rectangle4.5beb47a2.png": "/static/media/Rectangle4.5beb47a2.png",
+    "static/media/Rectangle5.21eaca77.png": "/static/media/Rectangle5.21eaca77.png",
+    "static/media/Rectangle6.67444bcf.png": "/static/media/Rectangle6.67444bcf.png",
+    "static/media/jobs.09b6fa61.jpg": "/static/media/jobs.09b6fa61.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f038557c.js",
+    "static/js/2.67f09a2e.chunk.js",
+    "static/css/main.bfd88e1f.chunk.css",
+    "static/js/main.bb0f79de.chunk.js"
+  ]
+}
