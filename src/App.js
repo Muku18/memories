@@ -1,25 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react'
+import Navbar from './Components/Navbar'
+import Main from './Components/Main'
+import Main2 from './Components/Main2'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import {BrowserRouter as Router} from "react-router-dom";
+
+const App = () => {
+    const [progress, setProgress] = useState(0);
+    return (
+        <>
+            <Router>
+                
+                <Navbar />
+                <Main />
+                <Main2 setProgress={setProgress} />
+            </Router>
+        </>
+    )
 }
 
-export default App;
+export default App
